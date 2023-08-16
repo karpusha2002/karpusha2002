@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @karpusha2002
+- 👋 Hi, I’m Kate
 - 👀 I’m interested in qa engeneering
-- 🌱 I’m currently learning testing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: telegram @karpusha2002
+- 📫 telegram @karpusha2002
 
 <!---
 karpusha2002/karpusha2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
